@@ -16,7 +16,6 @@ namespace Extensions
             {
                 result.Add(list[i]);
             }
-            Console.WriteLine("Another change");
             return result;
         }
     }
