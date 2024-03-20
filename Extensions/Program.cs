@@ -35,6 +35,7 @@
             }
 
             Console.WriteLine("Pakeitimas");
+            Console.WriteLine("Second commit");
 
             Console.WriteLine("Pakeitimas more");
         }
