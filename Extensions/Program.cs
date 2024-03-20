@@ -35,7 +35,7 @@
             }
 
             Console.WriteLine("Pakeitimas");
-
+            Console.WriteLine("EXT-3");
             Console.WriteLine("Pakeitimas more");
 
             Console.WriteLine("EXT-2");
