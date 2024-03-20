@@ -17,10 +17,10 @@
             string email = fullName.CreateEmailAdress(1995, "gmail.com");
             Console.WriteLine(email);
             Console.ResetColor();
+                Console.WriteLine("Another one too");
+                //1.3
 
-            //1.3
-
-            List<int> ints = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8};
+                List<int> ints = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8};
             List<int> everySecondInt = ints.GetListEverySecondWord();
 
             foreach (int i in everySecondInt) 
@@ -33,6 +33,10 @@
 
                 throw;
             }
+
+            Console.WriteLine("Pakeitimas");
+
+            Console.WriteLine("Pakeitimas more");
         }
     }
 }
